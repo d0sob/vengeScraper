@@ -2,7 +2,7 @@
 
 Venge Scraper is a web app developed by d0sob designed to extract assets from Venge.io and facilitate modding. This tool allows you to easily download, manage, and modify game assets to enhance your Venge experience.
 ##
-USE HERE -> https://d0sob.github.io/vengeScraper/
+# **USE HERE** -> https://d0sob.github.io/vengeScraper/
 ## Features
 
 - **Asset Downloading:** Click the download button to get the assets you need.

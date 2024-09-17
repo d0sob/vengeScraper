@@ -275,7 +275,7 @@
             const zip = new JSZip();
             updateStatus("Starting file downloads...");
             await downloadAndAddToZip(urls, zip, 0);
-            updateStatus("Generating ZIP file...\n Please wait....... (This might take 5-10 minutes)");
+            updateStatus("Generating ZIP file...\nPlease wait....... (This might take 5-10 minutes)");
             const blob = await zip.generateAsync({ type: "blob" });
             saveAs(blob, "files.zip");
             updateStatus("Download complete.");
